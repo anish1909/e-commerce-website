@@ -1,0 +1,103 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.header
+{
+	width: 100%;
+	height: 50px;
+	border: 2px solid red;
+	position :fixed;
+	padding-top: 0px;
+	background-color: black;
+	opacity: 0.5;
+	
+}
+h1
+{
+	color: white;
+	text-align: center;
+	border: 2px  hidden gray ;
+}
+h1:hover
+{
+	background-color: red;
+	font-size: 35px;
+	font-family: cursive;
+}
+.gallery
+{
+	width: 100%;
+	height: 2220px;
+	border: 2px solid black;
+	padding-top: 54px;
+	background-color: firebrick;
+
+
+	
+}
+.gallery div
+{
+	display: inline-block;
+}
+.gallery input
+{
+	display: block;
+	width: 40px;
+	background-color:
+
+}
+img
+{
+	width: 400px;
+	height: 300px;
+	margin:0px 22px; 
+	
+	border-radius: 50% ;	
+}
+#b1
+{
+	width: 200px;
+	height: 33px;
+	border: 2px solid orange;
+	border-radius: 2rem;
+	
+	margin: 15px 0px;
+	margin-left: 85px; 
+	background-color: crimson;
+	opacity: 0.8;
+	color: white;
+	font-size: 20px;
+	outline: none;
+}
+img:hover
+{
+	transform: scale(1.1);
+	border-radius: 100% solid blue;
+	outline: 50% solid gray;
+}
+#b1:hover
+{
+	background-color: darkorange;
+	opacity: 0.8;
+	transform: scale(1.1);
+}
+.footer
+{
+width: 100%;
+height: 35px;
+border: 2px solid red;	
+background-color: gray;
+}
+p{
+	color: white;
+	font-size: 20px;
+	font-family: cursive;
+	text-align: center;
+}
+span
+{
+	color:blue;
+	font-size: 60px;
+	
+}

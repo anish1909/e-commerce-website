@@ -1,0 +1,36 @@
+*
+{
+	padding: 0px;
+	margin:0px;
+}
+.div1
+{
+	width: auto;
+	height: 650px;
+	border: 5px solid red;
+	background-image: url("image/a.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1
+{
+	text-align: center;
+	color:blue;
+	font-size: 140px;
+}
+h2
+{
+font-size: 95px;
+}
+h2 a
+{
+	color:orange;
+	text-decoration: none;
+}
+h2 a:hover
+{
+ transform:scale(1.4);
+ color:green;
+ font-size: 105px;
+
+}
